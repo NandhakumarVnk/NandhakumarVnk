@@ -2,7 +2,9 @@
 
 <!-- ===================== ANIMATED WAVE BANNER ===================== -->
 
-<img src="./assets/banner.svg" width="100%" alt="Nandhakumar Animated Banner"/>
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Nandhakumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=58&descSize=20"
+/>
 
 <br/>
 
@@ -14,6 +16,8 @@
 />
 
 <br/>
+
+<!-- ===================== ANIMATED ROLES ===================== -->
 
 <!-- ===================== ANIMATED ROLES ===================== -->
 
