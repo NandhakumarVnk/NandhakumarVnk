@@ -1,6 +1,26 @@
 <div align="center">
 
-# Hi 👋, I'm Nandhakumar
+<div align="center">
+
+<!-- Animated Name Banner -->
+
+<img 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Nandhakumar;Welcome+to+my+GitHub+Profile"
+  alt="Typing SVG"
+/>
+
+<br/>
+
+<!-- Animated Changing Roles -->
+
+<img 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&height=50&lines=B.Tech+IT+Student;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Backend+Developer;Cybersecurity+Enthusiast;Always+Learning+%F0%9F%9A%80"
+  alt="Typing SVG"
+/>
+
+<br/><br/>
+
+</div>
 
 ## 💻 Technical Skills
 
