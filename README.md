@@ -24,7 +24,6 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL"/>
   <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="PostgreSQL"/>
   <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB"/>
-  <img src="https://cdn.simpleicons.org/oracle/F80000" height="50" alt="Oracle SQL"/>
 </p>
 
 ### 🎨 Frontend Development
@@ -43,5 +42,3 @@
   <img src="https://cdn.simpleicons.org/opencv" height="50" alt="Computer Vision"/>
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="50" alt="Transformers"/>
 </p>
-
-**Natural Language Processing (NLP)**
