@@ -1,147 +1,176 @@
 <div align="center">
 
-<!-- ===================================================== -->
-<!--                    HERO BANNER                        -->
-<!-- ===================================================== -->
+<!-- ===================== 1. HERO BANNER ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nandhakumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=62&descSize=16" width="100%"/>
 
-<img 
-  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nandhakumar&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=62&descSize=18"
-  width="100%"
-  alt="Nandhakumar Banner"
-/>
-
-<!-- ===================================================== -->
-<!--                 TYPING ANIMATION                      -->
-<!-- ===================================================== -->
-
-<img 
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=850&height=70&lines=Final+Year+IT+Engineering+Student;Full+Stack+Developer;AI+%26+ML+Enthusiast;Computer+Vision+%26+Backend+Developer"
-  alt="Typing SVG"
-/>
+<!-- ===================== 2. TYPING HEADER ===================== -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Final+Year+IT+Engineering+Student;Full+Stack+Developer;AI+%26+ML+Enthusiast;Computer+Vision+%26+Backend+Dev" alt="Typing SVG"/>
 
 </div>
 
 <br/>
 
-<!-- ===================================================== -->
-<!--                       ABOUT ME                         -->
-<!-- ===================================================== -->
-
-<h2>👨‍💻 About Me</h2>
-
-<img
-  align="right"
-  width="380"
-  src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"
-  alt="Coding GIF"
-/>
+<!-- ===================== 3. CODE-BLOCK ABOUT ME ===================== -->
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
 class Nandhakumar:
-
     def __init__(self):
-
         self.name = "Nandhakumar (NK)"
-        self.location = "Chennai, India"
-
-        self.degree = "B.Tech in Information Technology"
-
+        self.location = "India"  # TODO: add your city
+        self.degree = "B.Tech in Information Technology, Madras Institute of Technology"
         self.stack = [
-            "C++",
-            "Java",
-            "Python",
-            "JavaScript",
-            "React",
-            "Spring Boot",
-            "Express.js",
-            "MySQL",
-            "PostgreSQL",
-            "MongoDB",
-            "TensorFlow",
-            "OpenCV"
+            "C++", "Java", "Python", "JavaScript",
+            "React", "Spring Boot", "Express.js",
+            "MySQL", "PostgreSQL", "MongoDB",
+            "TensorFlow", "OpenCV"
         ]
-
-        self.currently_learning = [
-            "Node.js",
-            "PostgreSQL",
-            "MongoDB",
-            "Unity + C#",
-            "Three.js",
-            "Phaser.js"
+        self.currentlyLearning = [
+            "Node.js", "PostgreSQL/MongoDB internals",
+            "Unity + C#", "Three.js", "Phaser.js"
         ]
-
-        self.fun_fact = (
-            "Once built a fully animated birthday "
-            "video using HTML, CSS and JavaScript"
-        )
+        self.funFact = "Once built a fully animated birthday video from scratch using HTML, CSS & JS"
 
     def motto(self):
         return "Keep building, keep learning 🚀"
+```
+
 <br clear="right"/>
-<!-- ===================================================== --> <!-- TECH STACK --> <!-- ===================================================== --> <h2 align="center">🛠️ Tech Stack</h2> <div align="center"> <h3>💻 Languages</h3> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
-<br/><br/>
+<!-- ===================== 4. TECH BADGES ===================== -->
+<div align="center">
 
-<h3>⚙️ Frameworks & Libraries</h3> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+**Languages**
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<br/><br/>
+**Frameworks**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-<h3>🗄️ Databases</h3> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+**Cloud & DevOps**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-<br/><br/>
+**Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-<h3>🔧 Tools & Technologies</h3> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /> </div> <br/>
-<!-- ===================================================== --> <!-- GITHUB STATS --> <!-- ===================================================== --> <h2 align="center">📊 GitHub Analytics</h2> <div align="center"> <a href="https://github.com/Nknandha"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=Nknandha&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub Stats" /> </a> <a href="https://github.com/Nknandha"> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nknandha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&border_radius=10" alt="Top Languages" /> </a>
+**Tools**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-<br/><br/>
+</div>
 
-<img src="https://streak-stats.demolab.com?user=Nknandha&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117" alt="GitHub Streak" />
+<br/>
 
-</div> <br/>
-<!-- ===================================================== --> <!-- ACTIVITY GRAPH --> <!-- ===================================================== --> <h2 align="center">📈 Contribution Activity</h2> <div align="center">
+<!-- ===================== 5 & 6. STATS + TOP LANGUAGES ===================== -->
+<div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nknandha&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="GitHub Contribution Graph" />
+<a href="https://github.com/Nknandha">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Nknandha&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+</a>
+<a href="https://github.com/Nknandha">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nknandha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+</a>
 
-</div> <br/>
-<!-- ===================================================== --> <!-- TROPHIES --> <!-- ===================================================== --> <h2 align="center">🏆 GitHub Trophies</h2> <div align="center">
+<!-- ===================== 7. STREAK STATS ===================== -->
+<img src="https://streak-stats.demolab.com?user=Nknandha&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Nknandha&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies" />
+<!-- ===================== 8. ACTIVITY GRAPH ===================== -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nknandha&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 
-</div> <br/>
-<!-- ===================================================== --> <!-- FEATURED PROJECTS --> <!-- ===================================================== --> <h2 align="center">🚀 Featured Projects</h2> <div align="center">
-🚀 Project	🛠️ Tech Stack	📌 Description
-5G Wireless Network Intrusion Detection	Python · GNN · Network Security	GNN-based framework for detecting cyber attacks in 5G wireless networks
-RideMart	React · Spring Boot · PostgreSQL	Full-stack ride-hailing platform with User, Driver, and Admin modules
-Face Recognition Attendance System	Python · Flask · React · OpenCV	Face-based attendance system with Professor and Student dashboards
-MediMart	React · Node.js · Express.js · MongoDB	Full-stack online medicine store with product and inventory management
-</div> <br/>
-<!-- ===================================================== --> <!-- EDUCATION --> <!-- ===================================================== --> <h2 align="center">🎓 Education</h2> <div align="center">
-🎓 Degree	🏫 Institution	📅 Status
-B.Tech – Information Technology	Madras Institute of Technology	Final Year
-</div> <br/>
-<!-- ===================================================== --> <!-- CURRENTLY LEARNING --> <!-- ===================================================== --> <h2>📚 Currently Learning</h2>
-🧱 Web Development
-   → Node.js
-   → PostgreSQL
-   → MongoDB
+<!-- ===================== 9. TROPHY WALL ===================== -->
+<img src="https://github-profile-trophy.vercel.app/?username=Nknandha&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 
-🎮 Game Development
-   → Unity
-   → C#
-   → Phaser.js
-   → Three.js
+</div>
 
-🧠 Problem Solving
-   → HackerRank
-   → LeetCode
-   → Frontend Mentor
-<!-- ===================================================== --> <!-- OPEN SOURCE JOURNEY --> <!-- ===================================================== --> <h2>🌱 Open Source Journey</h2>
-🌱 Exploring and contributing to Open Source projects
-💻 Building Full Stack applications
-🧠 Learning AI, Machine Learning and Computer Vision
-🔐 Interested in Network Security and Intrusion Detection
-🎮 Exploring Game Development with Unity and Three.js
-🚀 Continuously learning and building new projects
-<!-- ===================================================== --> <!-- CONNECT WITH ME --> <!-- ===================================================== --> <h2 align="center">📫 Connect With Me</h2> <div align="center"> <a href="mailto:nandhu2k4@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://www.linkedin.com/in/nandhakumarv-nk07/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://github.com/Nknandha"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> </div> <br/> <div align="center"> <h3>⭐ Keep Building • Keep Learning • Keep Growing 🚀</h3> </div> <!-- ===================================================== --> <!-- FOOTER --> <!-- ===================================================== -->
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" alt="Footer" />
+<!-- ===================== 10. WORK EXPERIENCE ===================== -->
+## 💼 Work Experience
+
+<!-- TODO: No work experience details were provided. Duplicate the block below per role. -->
+<details>
+<summary><b>Company Name — Role Title (Month Year – Month Year) · Location</b></summary>
+<br/>
+
+> `Tech Tag 1` `Tech Tag 2` `Tech Tag 3`
+
+- Replace with an impact bullet including a metric (e.g. "Reduced API latency by 30%")
+- Replace with a second bullet
+- Replace with a third bullet
+
+</details>
+
+<br/>
+
+<!-- ===================== 11. FEATURED PROJECTS ===================== -->
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Stack | Highlights |
+|---|---|---|
+| [5G Wireless Network Intrusion Detection](https://github.com/Nknandha) | Python · GNN · Network Security | GNN-based framework to detect cyber attacks in 5G wireless networks |
+| [RideMart](https://github.com/Nknandha) | React · Spring Boot · PostgreSQL | Full-stack ride-hailing platform with separate User, Driver, and Admin modules |
+| [Face Recognition Attendance System](https://github.com/Nknandha) | Python · Flask · React · OpenCV | Face-based attendance system with distinct Professor and Student dashboards |
+| [MediMart](https://github.com/Nknandha) | React · Node.js · Express.js · MongoDB | Full-stack online medicine store with product and inventory management |
+
+</div>
+
+<br/>
+
+<!-- ===================== 12. ACHIEVEMENTS ===================== -->
+## 🏆 Achievements
+
+<!-- TODO: No achievement details were provided — add hackathon wins, ranks, LeetCode/HackerRank stats, etc. -->
+<div align="center">
+
+| 🏅 | Achievement | Details |
+|---|---|---|
+| 🚧 | *Add achievement* | *Add exact numbers (rank, score, date)* |
+
+</div>
+
+<br/>
+
+<!-- ===================== 13. EDUCATION + CURRENTLY LEARNING + FOOTER ===================== -->
+## 🎓 Education
+
+<div align="center">
+
+| Degree | Institution | Year | Score |
+|---|---|---|---|
+| B.Tech, Information Technology | Madras Institute of Technology | Final Year | *Add CGPA* |
+
+</div>
+
+### 📚 Currently Learning
+
+```
+🧱 Web Development   → Node.js, PostgreSQL, MongoDB
+🎮 Game Development  → Unity, C#, Phaser.js, Three.js
+🧠 Problem Solving   → HackerRank, LeetCode, Frontend Mentor
+```
+
+### 📫 Connect With Me
+
+<div align="center">
+
+<a href="mailto:nandhu2k4@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/nandhakumarv-nk07/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
