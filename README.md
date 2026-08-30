@@ -128,7 +128,7 @@ class Nandhakumar:
 | Project | Stack | Highlights |
 |---|---|---|
 | [5G Wireless Network Intrusion Detection](https://github.com/NandhakumarVnk) | Python · GNN · Network Security | GNN-based framework to detect cyber attacks in 5G wireless networks |
-| [RideMart](https://github.com/Nknandha) | React · Spring Boot · PostgreSQL | Full-stack ride-hailing platform with separate User, Driver, and Admin modules |
+| [RideMart](https://github.com/NandhakumarVnk) | React · Spring Boot · PostgreSQL | Full-stack ride-hailing platform with separate User, Driver, and Admin modules |
 | [Face Recognition Attendance System](https://github.com/NandhakumarVnk) | Python · Flask · React · OpenCV | Face-based attendance system with distinct Professor and Student dashboards |
 | [MediMart](https://github.com/NandhakumarVnk) | React · Node.js · Express.js · MongoDB | Full-stack online medicine store with product and inventory management |
 
