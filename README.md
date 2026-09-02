@@ -326,20 +326,20 @@ I have developed multiple academic and personal software systems spanning **full
 <div align="center">
 
 <a href="https://github.com/NandhakumarVnk">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=NandhakumarVnk&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&border_radius=12"/>
-
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=NandhakumarVnk&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&border_radius=12"/>
 </a>
 
 <a href="https://github.com/NandhakumarVnk">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandhakumarVnk&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&border_radius=12"/>
-
+<img height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandhakumarVnk&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&border_radius=12"/>
 </a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=NandhakumarVnk&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=8B5CF6&dates=6B7280&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=12" />
+<img
+src="https://streak-stats.demolab.com?user=NandhakumarVnk&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=8B5CF6&dates=6B7280&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=12"
+/>
 
 </div>
 
@@ -349,7 +349,9 @@ I have developed multiple academic and personal software systems spanning **full
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=NandhakumarVnk&theme=onestar&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
+<img
+src="https://github-profile-trophy.vercel.app/?username=NandhakumarVnk&theme=onestar&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"
+/>
 
 </div>
 
@@ -359,19 +361,20 @@ I have developed multiple academic and personal software systems spanning **full
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NandhakumarVnk&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area_color=4C1D95&area=true&hide_border=true&custom_title=Nandhakumar%27s%20Contribution%20Activity" />
+<img
+width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=NandhakumarVnk&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true&custom_title=NandhakumarVnk%27s%20Contribution%20Activity"
+/>
 
 </div>
-
 ---
 
 # Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Nknandha/NandhakumarVnk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</div>
+<img
+src="https://raw.githubusercontent.com/NandhakumarVnk/NandhakumarVnk/output/github-contribution-grid-snake-dark.svg"
+alt="GitHub Contribution Snake"
+/>
 
 ---
 
